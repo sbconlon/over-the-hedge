@@ -15,7 +15,7 @@ Quantitative betting strategy for live MLB games using state-of-the-art algorith
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4. Infering odds state from baseball state <br/>
 &nbsp;&nbsp;3. [Model](#3-model) <br/>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 ## 1. Introduction
 ### 1.1. Overview
 Over the Hedge an algorithm for optimal wagering during live MLB baseball games. <br/>
