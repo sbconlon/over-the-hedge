@@ -24,7 +24,7 @@ Past approaches to applying machine learning to sports gambling markets have use
 
 ### 1.2. Game theoretic description
 
-**Game description** - in-game live wagering can be formulated as a two-player zero-sum imperfect information game. <br/><br/>
+**Game description** - in-game live wagering can be formulated as a two-player zero-sum imperfect information game. <br/>
 
 **Players**
  * _Bookmaker_ - for each timestep in the game, the bookmaker sets the price for each team. <br/><br/>
