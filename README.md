@@ -18,7 +18,7 @@ Quantitative betting strategy for live MLB games using state-of-the-art algorith
 <br/><br/><br/><br/>
 ## 1. Introduction
 ### 1.1. Overview
-Over the Hedge an algorithm for optimal wagering during live MLB baseball games. <br/>
+Over the Hedge is an algorithm for optimal wagering during live MLB baseball games. <br/>
 
 Past approaches to applying machine learning to sports gambling markets have used a one-shot approach before the start of the game. That is, some model is used before the game begins to determine whether or not a wager should be made. The thesis of Over the Hedge is that a better return can be made if instead wagers are made through out the sporting event. This has the advantage of viewing the problem through a game theoretic approach where complex strategies can be computed that wouldn't otherwise be possible in the single bet paradigm. One such example is the ability to hedge during the game.
 
