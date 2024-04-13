@@ -1,5 +1,4 @@
 # Over the Hedge: Quantitative Betting Strategy for Live MLB Games
-Quantitative betting strategy for live MLB games using state-of-the-art algorithmic game theory and reinforcement learning algorithms. <br/><br/>
 
 <img align="left" src="https://github.com/sbconlon/over-the-hedge/blob/main/images/over-the-hedge-logo.png" width=40%>
 
