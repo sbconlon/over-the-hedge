@@ -1,4 +1,5 @@
 # Over the Hedge: Quantitative Betting Strategy for Live MLB Games
+<br/>
 
 <img align="left" src="https://github.com/sbconlon/over-the-hedge/blob/main/images/over-the-hedge-logo.png" width=40%>
 
