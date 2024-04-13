@@ -35,7 +35,7 @@ Past approaches to applying machine learning to sports gambling markets have use
 **Game state** <br/><br/>
 The game state can be broken down into three parts: <br/><br/>
  * _Baseball state_ - all features that describe the current state of the baseball game.
-   * Ex: score, inning, runners on base, pitcher, runners, player stats, team rosters, etc. <br/><br/>
+   * Ex: score, inning, runners on base, pitcher, player stats, team rosters, etc. <br/><br/>
  * _Odds state_ - the price for each team set by the bookmaker for the current baseball state. <br/><br/>
  * _Bettor state_ - describes the bettor's current state including their bankroll and bets made in prior game states. <br/><br/>
 
