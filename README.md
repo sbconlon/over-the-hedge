@@ -61,7 +61,7 @@ The first problem encountered when working on this project is the need for a lar
 To collect the baseball states I built an algorithm to process old play-by-play data from past baseball games into state vectors. This project is called Retrofeats and can be found [here](https://github.com/sbconlon/retrofeats).
 
 ### 2.3. Collecting odds state data
-To collect the odds statees I built an online web scraper to collect published odds from bookmakers as games were happening. I started running this scraper during the 2023 MLB season. The code for this project can be found at [MLB Scraper](https://github.com/sbconlon/mlb-scraper) repository.
+To collect the odds states I built an online web scraper to collect published odds from bookmakers as games were happening. I started running this scraper during the 2023 MLB season. The code for this project can be found at [MLB Scraper](https://github.com/sbconlon/mlb-scraper) repository.
 
 ### 2.4. Infering odds states from baseball states
 The limitiations of the odds scraper, described in Section 2.3, is that it only provides a small set of odds states for recent games. In order to produce odds states for the backlog of past baseball states, built in Section 2.1, I trained a supervised learning model to predict the bookmaker odds given a baseball game state. This allows for a large dataset of baseball games, approximately 62,000, with realistic bookmaker odds to be used for training an agent. This project is called Market Mime. It is currently still under development and will be released soon. 
