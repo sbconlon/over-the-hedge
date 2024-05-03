@@ -51,7 +51,7 @@ The game state can be broken down into three parts: <br/><br/>
    * _Bettor_ - the better must devise an optimal strategy such that they maximize their expected utility against a best response bookmaker, i.e. a Nash equilibrium.
 
 ### 1.3. Why baseball?
-Baseball is an ideal application for computational game solving for four reasons. First, baseball has an advanced sabermetrics community that supplies many useful stats. Second, baseball is a descritized game. In general, each game state can be thought of as a batter-pitcher matchup. The batter eventually produces an outcome that transitions the current game state to the next, with a new batter-pitcher matchup. Thrird, baseball is slow. Each batter-pitcher mathcup takes on the order of a minute, providing ample time for an optimal wager strategy to be computed. Fourth, I love baseball and enjoy watching it. 
+Baseball is an ideal application for computational game solving for four reasons. First, baseball has an advanced sabermetrics community that supplies many useful stats. Second, baseball is a descritized game. In general, each game state can be thought of as a batter-pitcher matchup. The batter eventually produces an outcome that transitions the current game state to the next, with a new batter-pitcher matchup. Third, baseball is slow. Each batter-pitcher mathcup takes on the order of a minute, providing ample time for an optimal wager strategy to be computed. Fourth, I love baseball and enjoy watching it. 
 
 ## 2. Dataset
 ### 2.1. Problem and description
